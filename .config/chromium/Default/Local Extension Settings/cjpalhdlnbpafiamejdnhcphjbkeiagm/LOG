@@ -1,0 +1,25 @@
+2024/04/26-14:06:47.631 91d Reusing MANIFEST /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/04/26-14:06:47.632 91d Recovering log #25
+2024/04/26-14:06:47.769 91d Reusing old log /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000025.log 
+2024/04/26-14:08:38.936 926 Level-0 table #29: started
+2024/04/26-14:08:39.099 926 Level-0 table #29: 2237944 bytes OK
+2024/04/26-14:08:39.114 926 Delete type=0 #25
+2024/04/26-14:08:39.122 926 Compacting 4@0 + 2@1 files
+2024/04/26-14:08:39.521 926 Generated table #30@0: 12 keys, 2330629 bytes
+2024/04/26-14:08:39.794 926 Generated table #31@0: 9 keys, 2383791 bytes
+2024/04/26-14:08:39.960 926 Generated table #32@0: 5 keys, 2608141 bytes
+2024/04/26-14:08:40.058 926 Generated table #33@0: 15 keys, 1093724 bytes
+2024/04/26-14:08:40.058 926 Compacted 4@0 + 2@1 files => 8416285 bytes
+2024/04/26-14:08:40.073 926 compacted to: files[ 0 4 1 0 0 0 0 ]
+2024/04/26-14:08:40.074 926 Delete type=2 #19
+2024/04/26-14:08:40.074 926 Delete type=2 #26
+2024/04/26-14:08:40.074 926 Delete type=2 #24
+2024/04/26-14:08:40.074 926 Delete type=2 #29
+2024/04/26-14:08:40.075 926 Delete type=2 #22
+2024/04/26-14:08:40.075 926 Delete type=2 #20
+2024/04/26-14:12:40.577 a16 Level-0 table #35: started
+2024/04/26-14:12:40.726 a16 Level-0 table #35: 1619807 bytes OK
+2024/04/26-14:12:40.741 a16 Delete type=0 #28
+2024/04/26-14:15:45.632 a28 Level-0 table #37: started
+2024/04/26-14:15:45.760 a28 Level-0 table #37: 1554114 bytes OK
+2024/04/26-14:15:45.774 a28 Delete type=0 #34
